@@ -1,7 +1,9 @@
 <!-- useful link
-gernarate: https://gprm.itsvg.in/
+gernarate: https://gprm.itsvg.in/ && https://profile-readme-generator.com/
+
 template: https://githubprofile.com/templates/ANii693
 icons: https://github.com/alexandresanlim/Badges4-README.md-Profile
+icon maker: https://ray.so/icon
   -->
 # 💫 About Me:
 Hello, I am a front-end developer with over four years of experience and a passion for open source. I hope to learn a lot here!<br>
